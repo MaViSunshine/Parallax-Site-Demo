@@ -6,11 +6,11 @@
 <video src="https://user-images.githubusercontent.com/90439054/187016658-2362e64c-497d-4671-80af-187b943b85df.mp4" placeholder= "https://user-images.githubusercontent.com/90439054/187016658-2362e64c-497d-4671-80af-187b943b85df.mp4"></video>
 </a>
 <p><strong>JavaScript, HTML5, CSS3</strong> - Page for a fictional moving company demostrating parallax effect. </p>
-<p>
+<p>Not responsive yet. I haven't had the time to finnish that.</p>
 
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=7c4c9e"/>
 </a>
-</p>
+
 </div>
 
